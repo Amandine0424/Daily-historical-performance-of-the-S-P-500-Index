@@ -16,10 +16,10 @@ Building and training the LSTM model
 Evaluating the model performance and making predictions
 
 # Chart visualization (Tableau)
-A vizualisation of the chart can
+![Alt text](Tableau_SP500_overview.png)
 
 # Price prediction model
-The LSTM model is implemented using TensorFlow and Keras.
+The LSTM model can be found in the Jupyter Notebook and is implemented using TensorFlow and Keras.
 
 The main goal of this project is to showcase how LSTM networks can capture the temporal dependencies and patterns in time series data, such as stock prices, and provide accurate forecasts for future values. However, this project is not intended to provide any financial advice or recommendations for trading or investing in stocks.
 
