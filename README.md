@@ -13,7 +13,7 @@ This repository contains a Jupyter notebook that collects the historical data of
 Exploratory data analysis and visualization
 Data preprocessing and feature engineering
 Building and training the LSTM model
-Evaluating the model performance and making predictions
+Evaluating the model performance and making predictions.
 
 # Chart visualization (Tableau)
 ![Alt text](Tableau_SP500_overview.png)
