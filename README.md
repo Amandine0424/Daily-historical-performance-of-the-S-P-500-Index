@@ -1,7 +1,7 @@
 # Daily historical performance of the S&P 500 Index
 
 # Project
-This project wants to reproduce and displays an informative chart about the History of U.S. Bear & Bull Markets, by analyzing the daily returns since 1942.
+This project intends to reproduce and display an informative chart about the History of U.S. Bear & Bull Markets, by analyzing the daily returns since 1942.
 The chart of [First Trust](https://www.ftportfolios.com/COMMON/CONTENTFILELOADER.ASPX?CONTENTGUID=4ECFA978-D0BB-4924-92C8-628FF9BFE12D) has been taken as an inspiration.
 
 # Data
