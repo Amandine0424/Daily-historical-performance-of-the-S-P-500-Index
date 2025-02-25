@@ -10,10 +10,10 @@ The data used in this project is obtained from Yahoo Finance and contains the da
 # Structure
 This repository contains a Jupyter notebook that collects the historical data of the S&P 500 from 1942 until today, and analyzes the bear and bull markets. It also demonstrates how to use Long Short-Term Memory (LSTM) neural networks to predict stock prices for the S&P 500 index. The notebook covers the following steps:
 
-Exploratory data analysis and visualization
-Data preprocessing and feature engineering
-Building and training the LSTM model
-Evaluating the model performance and making predictions.
+- Exploratory data analysis and visualization
+- Data preprocessing and feature engineering
+- Building and training the LSTM model
+- Evaluating the model performance and making predictions.
 
 # Chart visualization (Tableau)
 ![Alt text](Tableau_SP500_overview.png)
